@@ -13,6 +13,11 @@
             Основной код программы :
 ![image](https://user-images.githubusercontent.com/87894035/152173358-eba30cd3-51e5-43b9-ad25-071b41eb2497.png)
             
+2 Объявить две переменные: admin и name. Записать в name строку "Василий". Скопировать
+              значение из name в admin. Вывести в консоль переменную admin (должно вывести "Василий").
+              
+              Основной код работы :
+![image](https://user-images.githubusercontent.com/87894035/152174267-e360665f-e2c3-49c8-ad5b-630546c2ab61.png)
 
 
 
