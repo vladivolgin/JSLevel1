@@ -42,7 +42,7 @@
 
         2.Чему будут равны переменные x и a в примере ниже? Написать почему так произошло
         (описать последовательность действий).
-![image](https://user-images.githubusercontent.com/87894035/152177274-0e2217c2-afa6-464a-b073-44fc392135ef.png)
+![image](https://user-images.githubusercontent.com/87894035/152177274-0e2217c2-afa6-464a-b073-44fc392135ef.png).
 
 Основной код программы:
 ![image](https://user-images.githubusercontent.com/87894035/152177368-2ef8f578-2b30-4b29-a5fd-3eb975ddc5c5.png).
